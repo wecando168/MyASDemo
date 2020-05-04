@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">安卓实例</string>
+    <string name="tv_main_title">Android Studio 开发-实例教程</string>
+    <string name="app_name_label">实例教程</string>
+    <string name="tv_title">跑马灯效果，点击暂停，再点击恢复</string>
+    <string name="tv_marquee">快讯：红色预警，超强台风“莫兰蒂”即将登陆，请居民关紧门窗、备足粮草，做好防汛救灾准备！</string>
+    <string name="btn_marquee">文本跑马灯</string>
+    <string name="btn_bbs">滚动聊天室</string>
+    <string name="tv_bbs_title">聊天室效果，点击添加聊天记录，长按删除聊天记录</string>
+    <string name="btn_mylintener">按键监听类</string>
+    <string name="btn_left">左按键</string>
+    <string name="btn_right">右按键</string>
+    <string name="btn_scale">图片拉伸类</string>
+    <string name="btn_fitCenter">比例居中</string>
+    <string name="btn_centerCrop">填充居中</string>
+    <string name="btn_centerInside">缩小居中</string>
+    <string name="btn_center">原图居中</string>
+    <string name="btn_fitXY">控件填充</string>
+    <string name="btn_fitStart">左上对齐</string>
+    <string name="btn_fitEnd">右下对齐</string>
+    <string name="btn_test_procedure">原DEMO程序测试</string>
+    <string name="btn_chat">聊天</string>
+    <string name="btn_capture">截图</string>
+    <string name="btn_show_capture">截屏操作</string>
+</resources>
